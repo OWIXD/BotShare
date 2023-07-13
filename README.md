@@ -16,7 +16,7 @@ pkg install git
 
 git clone https://github.com/OWIXD/BotShare
 
-cd Brutev2
+cd BotShare
 
 git pull
 
